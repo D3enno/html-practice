@@ -1,0 +1,10 @@
+#nexex-id {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+#prevex-id {
+  display: flex;
+  align-items: flex-end;
+}
